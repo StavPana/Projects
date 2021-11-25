@@ -1,0 +1,15 @@
+.custom-dropdown .Select--multi .Select-value {
+ 
+  border-color: #e3a700;
+  color: #000000;
+}
+
+.custom_container {
+	 
+	  background-image: url("background.jpg");
+}
+
+.custom_size{
+	 
+	  font-size: xx-large;
+}
